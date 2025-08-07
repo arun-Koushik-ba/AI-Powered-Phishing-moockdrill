@@ -1,4 +1,6 @@
-# Welcome to the Project
+# Welcome to Mini_Cybersec Project
+Generative AI is an exciting new advance in artificial intelligence that has taken phishing simulation to a level of new realism and adaptability.We have develped a way to Generate phishing emails that represent real-world threats and paralleling the specific role, department, and user behavioral analysis, and find out if that particular person is a threat or not
+
 
 ## Project Info
 
